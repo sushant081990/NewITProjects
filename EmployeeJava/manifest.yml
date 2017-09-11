@@ -1,0 +1,7 @@
+---
+applications:
+- name: EmployeeJava
+  memory: 512M
+  host: EmployeeJava
+  domain: mybluemix.net
+  buildpack: http://EmployeeJava.com
